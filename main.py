@@ -111,6 +111,13 @@ es = pyes.ES('{0}:{1}'.format(es_host, es_port))
 es.indices.create_index_if_missing(es_index)
 es.indices.put_mapping(es_type, {'properties': mapping}, [es_index])
 
+sdfsdfsdfsdfsdf
+sdfsdfsdf
+sdfsdfsdf
+sdfsdfsdf
+sdfsdf
+
+
 fs = {}
 login = "D:\\log\\"
 
